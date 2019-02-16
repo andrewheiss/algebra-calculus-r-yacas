@@ -173,7 +173,7 @@ deriv_neat_function(1, 2)
 Again, this is just scratching the surface of what **Ryacas** can do.
 There are also more powerful CAS libraries, like Python’s
 [SymPy](https://www.sympy.org/en/index.html), though it doesn’t
-currently have. a nice interface with R (but you could theoretically use
+currently have a nice interface with R (but you could theoretically use
 [**reticulate**](https://rstudio.github.io/reticulate/) to feed R
 objects directly to Python, do mathy things with them, and return them
 to R).
